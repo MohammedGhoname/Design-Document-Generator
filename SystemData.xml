@@ -1,0 +1,15 @@
+<?xml version="1.0" standalone="yes"?>
+<NewDataSet>
+  <Modules>
+    <ModuleName>Contact Profile</ModuleName>
+    <ModuleEntities>contact,incident</ModuleEntities>
+  </Modules>
+  <Profiles>
+    <ProfileName>Test Profile</ProfileName>
+    <URL>http://DomainName/OrganizationName</URL>
+    <DomainName>DomainName</DomainName>
+    <UserName>Username</UserName>
+    <Password>Password</Password>
+    <IsIFD>False</IsIFD>
+  </Profiles>
+</NewDataSet>
