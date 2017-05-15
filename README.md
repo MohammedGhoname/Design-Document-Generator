@@ -1,7 +1,7 @@
 # Design-Document-Generator
 
 * key features:
---	Generating design document in word format.
+-	Generating design document in word format.
 -	Can specify which part exactly you want (Attributes, Relationships, Processes, Plugins and even Security Roles) or all of them.
 -	You can generate a Visio diagram as well.
 -	You can create many profiles to save your connection settings, or even you can delete it.
